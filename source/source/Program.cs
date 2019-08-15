@@ -5,7 +5,12 @@ class Program
 {
    static void Main(string[] args)
    {
-	   	Console.WriteLine("Hello github!");
-	   	Console.ReadLine();
+	var str = "Hello github!";
+	Console.WriteLine(str);
+	foreach(var ch in str)
+	{
+		Console.WriteLine(ch.ToString());
+	}
+  	Console.ReadLine();
    }
 }
