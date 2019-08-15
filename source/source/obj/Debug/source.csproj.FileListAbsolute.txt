@@ -1,0 +1,6 @@
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\bin\Debug\source.exe.config
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\bin\Debug\source.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\bin\Debug\source.pdb
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\obj\Debug\source.csprojResolveAssemblyReference.cache
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\obj\Debug\source.exe
+C:\Users\yaser\Documents\SharpDevelop Projects\source\source\obj\Debug\source.pdb
