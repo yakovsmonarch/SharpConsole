@@ -5,7 +5,7 @@ class Program
 {
    static void Main(string[] args)
    {
-	   	Console.WriteLine("");
+	   	Console.WriteLine("Hello github!");
 	   	Console.ReadLine();
    }
 }
